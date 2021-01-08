@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  
+  
+  button {
+    background: rgb(133, 136, 136);
+    font-size: 20px;
+  }
+  
